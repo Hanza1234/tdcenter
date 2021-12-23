@@ -26,4 +26,4 @@ module.exports.humanizeMillisTime = function humanizeMillisTime(millis) {
 }
 module.exports.users = undefined
 
-client.login('OTIyNDEyOTQwNzU2MzkzOTg0.YcBF_g.XqmpkXNIkF9q7-9BacBaXV2L6sc');
+client.login('process.env.TOKEN');
