@@ -1,0 +1,15 @@
+{
+  "name": "ezium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "wToxyc#6666",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-better": "^1.2.6"
+  }
+}
